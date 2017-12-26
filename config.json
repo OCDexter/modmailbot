@@ -5,7 +5,7 @@
 
   "status": "Submit your applications to me!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible.",
-  "greetingMessage": "```"__**Welcome**__\n\nWelcome to Team Overdrive's Discord. Below you will find information on various aspects of this discord server, including; how to join the team, server rules, becoming an ambassador and arranging scrim matches. If you require any additional assistance please reply to this message and a member of the team will get in contact with you as soon as possible. Have a nice stay!```",
+  "greetingMessage": "```__**Welcome**__\n\nWelcome to Team Overdrive's Discord. Below you will find information on various aspects of this discord server, including; how to join the team, server rules, becoming an ambassador and arranging scrim matches. If you require any additional assistance please reply to this message and a member of the team will get in contact with you as soon as possible. Have a nice stay!```",
   
   "enableGreeting": "true",
   "alwaysReply": "true",
