@@ -197,7 +197,7 @@ async function reply(msg, text, anonymous = false) {
     logModUsername = modUsername;
   }
 
-  let content = `**${modUsername}:** ${text}`;
+  let content = `${text}`;
   let logContent = `**${logModUsername}:** ${text}`;
 
   async function sendMessage(file, attachmentUrl) {
