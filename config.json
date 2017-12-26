@@ -5,17 +5,7 @@
 
   "status": "Submit your applications to me!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible.",
-  "greetingMessage": "__**Welcome**__
-
-This is a test welcome message to allow for the checking of the formatting of this bot. 
-
-If you are reading this message, please ignore it for the time being as this bot is still in developmen. 
-
-Enjoy your stay.
-
-__**Test Header 1**__**
-
-__**Test Header 2**__ ",
+  "greetingMessage": "__**Welcome**__ This is a test welcome message to allow for the checking of the formatting of this bot. \nIf you are reading this message, please ignore it for the time being as this bot is still in developmen. Enjoy your stay.\n__**Test Header 1**__**\n__**Test Header 2**__ ",
   
   "enableGreeting": "true",
   "alwaysReply": "true",
