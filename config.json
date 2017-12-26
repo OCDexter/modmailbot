@@ -3,10 +3,11 @@
   "mailGuildId": "394574960569614357",
   "mainGuildId": "378601127765082113",
 
-  "status": "Message me for help!",
+  "status": "Submit your applications to me!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible.",
+  "greetingMessage": "This is a test greeting message.",
   
   "alwaysReply": "true",
   "alwaysReplyAnon": "true",
-  "newThreadCategoryId": "Applications"
+  "newThreadCategoryId": "395257813871493120"
 }
