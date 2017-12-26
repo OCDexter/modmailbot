@@ -5,8 +5,9 @@
 
   "status": "Submit your applications to me!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible.",
-  "greetingMessage": "This is a test greeting message.",
+  "greetingMessage": "This is a test greeting message. If you are reading this then please ignore this message as this bot is currently under development.",
   
+  "enableGreeting": "true",
   "alwaysReply": "true",
   "alwaysReplyAnon": "true",
   "newThreadCategoryId": "395257813871493120"
